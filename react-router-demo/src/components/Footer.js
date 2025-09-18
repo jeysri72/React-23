@@ -30,7 +30,7 @@ const Footer = () => {
   );
 };
 
-// Inline styles for the footer
+// Internal styles for the footer
 const styles = {
   footer: {
     backgroundColor: '#222',
@@ -60,3 +60,4 @@ const styles = {
 
 // Export the Footer component
 export default Footer;
+
